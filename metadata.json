@@ -1,0 +1,5 @@
+{
+  "name": "District Hackathon Finder",
+  "description": "A high-performance tool for retrieving verified hackathon and community program data for specific districts in an Excel/CSV compatible format.",
+  "requestFramePermissions": []
+}
